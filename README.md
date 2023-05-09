@@ -138,7 +138,7 @@ MATLAB, Symbolic Math Toolbox™, Simulink™
 
 ## License
 
-The license for this module is available in the [LICENSE.TXT](LICENSE.txt) file in this repository.
+The license for this module is available in the [LICENSE](LICENSE) file in this repository.
 
 ## Acknowledgments
 
