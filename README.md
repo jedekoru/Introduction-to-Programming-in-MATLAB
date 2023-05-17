@@ -134,7 +134,11 @@ Do you have any questions or feedback? Contact the [MathWorks online teaching te
 
 ## Products
 
-[MATLAB](https://www.mathworks.com/products/matlab.html), [Symbolic Math Toolbox™](https://www.mathworks.com/products/symbolic.html), [Simulink™](https://www.mathworks.com/products/simulink.html), [MATLAB Online Trainings](https://matlabacademy.mathworks.com/), [MATLAB Grader](https://grader.mathworks.com/)
+- [MATLAB](https://www.mathworks.com/products/matlab.html), 
+- [Symbolic Math Toolbox™](https://www.mathworks.com/products/symbolic.html), 
+- [Simulink™](https://www.mathworks.com/products/simulink.html), 
+- [MATLAB Online Trainings](https://matlabacademy.mathworks.com/), 
+- [MATLAB Grader](https://grader.mathworks.com/)
 
 ## License
 
