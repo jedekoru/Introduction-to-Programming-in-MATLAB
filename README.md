@@ -15,12 +15,18 @@ This teaching package contains content for the course “Introduction to Program
 1. A set of MATLAB [Live Scripts](https://www.mathworks.com/products/matlab/live-editor.html) arranged by topic, to be completed over a 6-week period.
 2. A set of complementary PowerPoint presentations.
 
-The content of this package is targeted towards both undergraduate and postgraduate students who are first time/novice programmers. MATLAB is a programming and numeric computing platform developed by MathWorks. 
+The content of this package is targeted towards both undergraduate and postgraduate students who are first-time/novice programmers. MATLAB is a programming and numeric computing platform developed by MathWorks. 
 
-The intention of this package is to gradually introduce students to the basics of Programming in an accessible manner, providing both theoretical underpinning along with guided demonstration and practical exercises. This is made possible making use of MATLAB Live Scripts which incorporate text, visual aids as well as links to videos and other multimedia instructional content.
+The intention of this package is to gradually introduce students to the basics of Programming in an accessible manner, providing both theoretical underpinnings along with guided demonstration and practical exercises. This is made possible by making use of MATLAB Live Scripts which incorporate text, visual aids as well as links to videos and other multimedia instructional content.
 
-It is expected that students who complete this course will have been provided a sufficient foundation to delve into areas requiring intermediary and advanced programming skills using MATLAB including such as Machine Learning, Shallow Neural Networks, Deep Learning etc.
+It is expected that students who complete this course will have been provided a sufficient foundation to delve into areas requiring intermediary and advanced programming skills using MATLAB including such as Machine Learning, Shallow Neural Networks, Deep Learning, etc.
 
+### Important points to take note
+- For every week there is a set of MATLAB Grader exercises divided into two levels of complexity. Those exercises are not given and can be shared only upon request.
+
+- The content has been fully embedded into a Learning Management System, aka LMS, that for the particular course held at the University of the Witwatersrand is Ulwazi (an LMS based in Canvas). In fact, MATLAB content as well as MATLAB Grader problems, can be easily integrated into Canvas and many other LMS like Moodle, D2L Brightspace, Sakai, Blackboard, etc.
+
+- The University of the Witwatersrand has a Campus Wide License which enables every staff members, students, and visitors to use the full suite of MATLAB products. This makes easy access to the tools to every students from everywhere in the world. Students can use MATLAB directly in the web browser with MATLAB Online which is connected to MATLAB Drive, which gives every students 20Gb of space in the cloud.
 
 ## Some Learning Highlights
 
@@ -46,9 +52,9 @@ The course content can be approached in one of two ways:
 
 Each Live Script contains instructions that will guide you step-by-step through the set activities and exercises. 
 
-Live scripts are divided into sections and contain Interactive Live Script Controls which include buttons, checkoxex, sliders etc. Feel free to ineract with these controls as well as typing in your own code snippets. You can run each section within a Live Script individually. 
+Live scripts are divided into sections and contain Interactive Live Script Controls which include buttons, checkboxes, sliders, etc. Feel free to interact with these controls as well as typing in your own code snippets. You can run each section within a Live Script individually. 
 
-To activate Live Script Controls, run the script manually by making use of the Run section (to run a section) or Run all sections. This will enable you to see the results. Initially, when you open a script, the Live Script controls are not active which means that you have to run the script (or section) manually to in order to see results.
+To activate Live Script Controls, run the script manually by making use of the Run section (to run a section) or Run all sections. This will enable you to see the results. Initially, when you open a script, the Live Script controls are not active which means that you have to run the script (or section) manually in order to see results.
 
 There is a link to the complementary PowerPoint Presentation at the end of every Live Script.
 
@@ -103,12 +109,9 @@ A list of all links to all the Live Scripts is given below:
 - Interoperability of MATLAB with other programming languages
 - Introduction to Symbolic Math, Object-Oriented Programming and Simulink
 
-
-
 ## Suggested Prerequisites
 
-Since this is a introductory course, there are no prerequisites and no prior programming experience is assumed.
-
+Since this is an introductory course, there are no prerequisites and no prior programming experience is assumed.
 
 ## Additional Resources
 
@@ -117,10 +120,11 @@ Since this is a introductory course, there are no prerequisites and no prior pro
 [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) - Learn the essentials of MATLAB through this free, two-hour introductory tutorial on commonly used features and workflows.
 
 ### Educator Resources
-
+We invite educators interested in this course material to go through the resources links provided below:
 - [Featured Courseware](https://www.mathworks.com/academia/courseware/course-materials.html)
 - [Teach with MATLAB and Simulink](https://www.mathworks.com/academia/educators.html)
 - [MATLAB Grader](https://www.mathworks.com/products/matlab-grader.html)
+- Feel free to contact me with your feedback, my email is [john.ekoru@wits.ac.za](mailto:john.ekoru@wits.ac.za)
 
 Do you have any questions or feedback? Contact the [MathWorks online teaching team.](mailto:onlineteaching@mathworks.com)
 
@@ -128,12 +132,9 @@ Do you have any questions or feedback? Contact the [MathWorks online teaching te
 
 [Week_0_Contents_and_instructions.pptx](./Week%200%20-%20Content%20and%20Instructions/Week_0_Content_and_Instructions.pptx)
 
-### Recommended Books
-
-
 ## Products
 
-MATLAB, Symbolic Math Toolbox™, Simulink™
+[MATLAB](https://www.mathworks.com/products/matlab.html), [Symbolic Math Toolbox™](https://www.mathworks.com/products/symbolic.html), [Simulink™](https://www.mathworks.com/products/simulink.html), [MATLAB Online Trainings](https://matlabacademy.mathworks.com/), [MATLAB Grader](https://grader.mathworks.com/)
 
 ## License
 
@@ -141,8 +142,8 @@ The license for this module is available in the [LICENSE](LICENSE) file in this 
 
 ## Acknowledgments
 
-This Curriculum Module was development through the support of [MathWorks](https://www.mathworks.com/). Special thanks to Dr Marco Rossi ([MathWorks](https://www.mathworks.com/)), Dr Jon Esteves ([Opti-Num Solutions (Pty)](https://www.optinum.co.za/)) and Dr Yuval Genga ([University of the Witwatersrand](https://www.wits.ac.za/)).
-
-## Cite As
-
-John Ekoru (2023). Introduction to Programming in MATLAB (https://github.com/jedekoru/Introduction-to-Programming-in-MATLAB/), GitHub. Retrieved March 09, 2023.
+This Curriculum Module was developed through the support of [MathWorks](https://www.mathworks.com/). 
+Special thanks to:
+- Dr. Marco Rossi from [MathWorks](https://www.mathworks.com/), 
+- Prof. Rodney Genga, Warren Carlson, James Braid and Dr Yuval Genga from the [University of the Witwatersrand](https://www.wits.ac.za/) 
+- and Dr. Jon Esteves, Jessica Mia Rivombo, Kamo Segoje and Hazel Chieza from [Opti-Num Solutions (Pty)](https://www.optinum.co.za/).
