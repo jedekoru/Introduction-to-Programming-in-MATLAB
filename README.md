@@ -19,7 +19,9 @@ The content of this package is targeted towards both undergraduate and postgradu
 
 The intention of this package is to gradually introduce students to the basics of Programming in an accessible manner, providing both theoretical underpinnings along with guided demonstration and practical exercises. This is made possible by making use of MATLAB Live Scripts which incorporate text, visual aids as well as links to videos and other multimedia instructional content.
 
-It is expected that students who complete this course will have been provided a sufficient foundation to delve into areas requiring intermediary and advanced programming skills using MATLAB including such as Machine Learning, Shallow Neural Networks, Deep Learning, etc.
+It is expected that students who complete this course will have been provided a sufficient foundation to delve into areas requiring intermediary and advanced programming skills using MATLAB including such as Machine Learning, Shallow Neural Networks, Deep Learning, etc. In addition to that, provide students the necessary skills to provide  access to the varied analysis and synthesis tools available MATLAB are important in several science and engineering courses which include but not limited to such at Control systems, Design of Measurement systems, Modelling, simulation and analysis of system response, Mechatronics, Flight dynamics and control, Signals and Systems, Telecommunications systems, Process control and optimization, Numerical methods, Electronics, Electric Power Systems etc.
+
+If you are new to MATLAB, please take the following free online training entitled [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) in order to get familiar with language.
 
 ### Important points to take note
 - For every week there is a set of MATLAB Grader exercises divided into two levels of complexity. Those exercises are not given and can be shared only upon request.
@@ -27,6 +29,8 @@ It is expected that students who complete this course will have been provided a 
 - The content has been fully embedded into a Learning Management System, aka LMS, that for the particular course held at the University of the Witwatersrand is Ulwazi (an LMS based in Canvas). In fact, MATLAB content as well as MATLAB Grader problems, can be easily integrated into Canvas and many other LMS like Moodle, D2L Brightspace, Sakai, Blackboard, etc.
 
 - The University of the Witwatersrand has a Campus Wide License which enables every staff members, students, and visitors to use the full suite of MATLAB products. This makes easy access to the tools to every students from everywhere in the world. Students can use MATLAB directly in the web browser with MATLAB Online which is connected to MATLAB Drive, which gives every students 20Gb of space in the cloud.
+
+- Students were encouraged to take Online Training like [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) and [MATLAB Fundamentals](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe) to better prepare them for projects involving components in MATLAB as well as final exams.
 
 ## Some Learning Highlights
 
@@ -43,8 +47,7 @@ It is expected that students who complete this course will have been provided a 
 ## Instructions
 
 The course content can be approached in one of two ways:
-1. By following the provided Live Scripts: Begin by opening the introductory Live Script below and follow the Live Script 
-- [Week_0_Contents_and_instructions.mlx](./Week%200%20-%20Content%20and%20Instructions/Week_0_Contents_and_instructions.mlx)
+1. Click on the Open in [MATLAB Online button](https://matlab.mathworks.com/open/github/v1?repo=jedekoru/Introduction-to-Programming-in-MATLAB&file=Week%200%20-%20Content%20and%20Instructions/Week_0_Contents_and_instructions.mlx) at the top of this readme file to access the content online in your web browser.
 2. By following the included PowerPoint presentations: Begin by opening the introductory Live Script and follow the presentation
 - [Week_0_Contents_and_instructions.pptx](./Week%200%20-%20Content%20and%20Instructions/Week_0_Content_and_Instructions.pptx)
 
@@ -60,11 +63,12 @@ There is a link to the complementary PowerPoint Presentation at the end of every
 
 ### PowerPoint Presentations
 
-Whenever teaching/learning is approached using the Powerpoint Presentations, a link to the complementary Live Script can be found on the last slide of every presentation.
+Whenever teaching/learning is approached using PowerPoint Presentations, a link to the complementary Live Script can be found on the last slide of every presentation.
 
 ## Content
 
-The table below indicates all the content made availabel through this, arranged by week, topic and content type:
+The table below indicates all the content made arranged by week, topic, and content type:
+![](Images/content.png)
 
 ## LiveScripts
 
