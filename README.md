@@ -19,7 +19,7 @@ The content of this package is targeted towards both undergraduate and postgradu
 
 The intention of this package is to gradually introduce students to the basics of Programming in an accessible manner, providing both theoretical underpinnings along with guided demonstration and practical exercises. This is made possible by making use of MATLAB Live Scripts which incorporate text, visual aids as well as links to videos and other multimedia instructional content.
 
-It is expected that students who complete this course will have been provided a sufficient foundation to delve into areas requiring intermediary and advanced programming skills using MATLAB including such as Machine Learning, Shallow Neural Networks, Deep Learning, etc. In addition to that, provide students the necessary skills to provide  access to the varied analysis and synthesis tools available MATLAB are important in several science and engineering courses which include but not limited to such at Control systems, Design of Measurement systems, Modelling, simulation and analysis of system response, Mechatronics, Flight dynamics and control, Signals and Systems, Telecommunications systems, Process control and optimization, Numerical methods etc.
+It is expected that students who complete this course will have been provided a sufficient foundation to delve into areas requiring intermediary and advanced programming skills using MATLAB including such as Machine Learning, Shallow Neural Networks, Deep Learning, etc. In addition to that, provide students the necessary skills to provide  access to the varied analysis and synthesis tools available MATLAB are important in several science and engineering courses which include but not limited to such at Control systems, Design of Measurement systems, Modelling, simulation and analysis of system response, Mechatronics, Flight dynamics and control, Signals and Systems, Telecommunications systems, Process control and optimization, Numerical methods, Electronics, Electric Power Systems etc.
 
 If you are new to MATLAB, please take the following free online training entitled [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) in order to get familiar with language.
 
@@ -63,11 +63,12 @@ There is a link to the complementary PowerPoint Presentation at the end of every
 
 ### PowerPoint Presentations
 
-Whenever teaching/learning is approached using the Powerpoint Presentations, a link to the complementary Live Script can be found on the last slide of every presentation.
+Whenever teaching/learning is approached using PowerPoint Presentations, a link to the complementary Live Script can be found on the last slide of every presentation.
 
 ## Content
 
-The table below indicates all the content made availabel through this, arranged by week, topic and content type:
+The table below indicates all the content made arranged by week, topic, and content type:
+![](Images/content.png)
 
 ## LiveScripts
 
