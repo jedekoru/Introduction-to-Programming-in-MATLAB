@@ -104,8 +104,8 @@ A list of all links to all the Live Scripts is given below:
 - Distinguish between For and While loops and their applications
 - Using vectorization to replace loops
 - Introduction to various data input and output methods
-- Learn to importing data from various structured and unstructured data types
-- Interactively or Programmatic approach to plotting data
+- Learn to import data from various structured and unstructured data types
+- Interactive or Programmatic approach to plotting data
 - Formatting plots
 - Creating and calling functions
 - Debugging and error-handling
